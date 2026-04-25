@@ -9,7 +9,7 @@ Soy desarrollador de software embebido desde hace más de un año y aquí podrá
 ## Contacto
 
 Puedes encontrarme en:
-GitHub: https://github.com/antonhermida/antonhermida 😉.
+GitHub: https://github.com/antonhermida/antonhermida 😉
 
 Linkedin: https://www.linkedin.com/in/anton-hermida-costas-189598272/
 
@@ -21,5 +21,6 @@ En cuanto a habilidades se refiere:
 - Integración continua CI/CD con Jenkins.
 - Manejo de control de versiones.
 - Familiarizado con Jira y Confluence.
+
 
 Si alguno de mis proyectos te resulta útil o interesante, ¡no olvides darle una estrella! ⭐
