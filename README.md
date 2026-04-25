@@ -2,13 +2,15 @@
 
 ## Sobre mí. 
 
-Estudié Ingeniería Electrónica y Automática y ahora me dedico al mundo de la programación
+Estudié Ingeniería Electrónica y Automática y ahora me dedico al mundo de la programación.
+
 Soy desarrollador de software embebido desde hace más de un año y aquí podrás encontrar todos mis proyectos.
 
 ## Contacto
 
 Puedes encontrarme en:
-GitHub: https://github.com/antonhermida/antonhermida 😉
+GitHub: https://github.com/antonhermida/antonhermida 😉.
+
 Linkedin: https://www.linkedin.com/in/anton-hermida-costas-189598272/
 
 ## Tecnologías y herramientas
