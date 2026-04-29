@@ -15,7 +15,7 @@ Linkedin: https://www.linkedin.com/in/anton-hermida-costas-189598272/
 
 ## Tecnologías y herramientas
 
-En cuanto a habilidades se refiere:
+Destaco las siguientes:
 - Programación en Python y C++.
 - Experiencia en software embebido.
 - Integración continua CI/CD con Jenkins.
@@ -24,4 +24,4 @@ En cuanto a habilidades se refiere:
 - Iniciación en Unit Testing con Tessy.
 
 
-Si alguno de mis proyectos te resulta útil o interesante, ¡no olvides darle una estrella! ⭐
+Me alegro de que te hayas pasado por aqui !
