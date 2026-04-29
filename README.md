@@ -21,6 +21,7 @@ En cuanto a habilidades se refiere:
 - Integración continua CI/CD con Jenkins.
 - Manejo de control de versiones.
 - Familiarizado con Jira y Confluence.
+- Iniciación en Unit Testing con Tessy.
 
 
 Si alguno de mis proyectos te resulta útil o interesante, ¡no olvides darle una estrella! ⭐
