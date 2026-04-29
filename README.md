@@ -8,7 +8,7 @@ Soy desarrollador de software embebido desde hace más de un año y aquí podrá
 
 ## Contacto
 
-Puedes encontrarme en:
+
 GitHub: https://github.com/antonhermida/antonhermida 😉
 
 Linkedin: https://www.linkedin.com/in/anton-hermida-costas-189598272/
